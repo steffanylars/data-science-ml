@@ -1,6 +1,6 @@
 # Data Science & Machine Learning Notebooks
 
-Applied data-science and machine-learning notebooks from **TC2004B – Análisis de Ciencia de Datos** (Tecnológico de Monterrey). End-to-end work covering NLP, clustering, classification, model evaluation, imbalanced data, and generative models.
+Applied data-science and machine-learning notebooks from **TC2004B - Análisis de Ciencia de Datos** (Tecnológico de Monterrey). End-to-end work covering NLP, clustering, classification, model evaluation, imbalanced data, and generative models.
 
 ## Notebooks
 
@@ -27,4 +27,4 @@ export AZURE_OPENAI_ENDPOINT="https://your-resource.cognitiveservices.azure.com/
 > Datasets are not included in this repository.
 
 ## Author
-**Steffany Lara** — Data Science & Mathematics Engineering, Tecnológico de Monterrey.
+**Steffany Lara** - Data Science & Mathematics Engineering, Tecnológico de Monterrey.
